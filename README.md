@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,0,20&height=180&section=header&text=Data%20Profiler&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Preprocessing%20%26%20Feature%20Engineering&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C0111F&center=true&vCenter=true&width=650&lines=Customer+Churn+Data+Profiler+%F0%9F%94%8D;CSV+%2B+JSON+%2B+SQL+%2B+API+%E2%86%92+ML-Ready+Data;Cleaning+%C2%B7+EDA+%C2%B7+Automated+Profiling" alt="Typing SVG" />
@@ -13,8 +12,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-Tensors-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![ydata-profiling](https://img.shields.io/badge/ydata--profiling-Automated%20EDA-6A1B9A?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Complete-2ECC71?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Academic%20Project-lightgrey?style=for-the-badge)
 
 </div>
 
@@ -42,13 +39,9 @@ Data-Profiler-Project/
 │   ├── Bivariate_Analysis.png             # Gender vs. Purchases, Income vs. Churn
 │   ├── Multivariate_Analysis.png          # Correlation heatmap
 │   └── Pair_Plot.png                      # Pair plot by churn class
-├── notebooks/
-│   └── Data_Profiler_Analysis.ipynb       # Full analysis notebook (Parts A–E, executed)
-├── docs/
-│   └── Theory_Concepts.pdf                # Theory write-up: data analysis, DS lifecycle, ML framing, tensors
-├── reports/
-│   └── pandas_profiling_report.html       # Automated data-profiling report (ydata-profiling)
-├── requirements.txt
+├── Data_Profiler_Analysis.ipynb           # Full analysis notebook (Parts A–E, executed) 
+├── Theory_Concepts.pdf                    # Theory write-up: data analysis, DS lifecycle, ML framing, tensors   
+├── pandas_profiling_report.html           # Automated data-profiling report (ydata-profiling)
 └── README.md
 ```
 
@@ -147,8 +140,7 @@ jupyter notebook notebooks/Data_Profiler_Analysis.ipynb
 
 ### ✍️ Author
 
-**Rensee Gajipara**
-B.Tech — Artificial Intelligence & Data Science, Sarvajanik College of Engineering & Technology (SCET), Surat
+**RENSEE GAJIPARA**
 
 [![GitHub](https://img.shields.io/badge/GitHub-RENSEE--GAJIPARA-181717?style=for-the-badge&logo=github)](https://github.com/RENSEE-GAJIPARA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rensee%20Gajipara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rensee-gajipara/)
