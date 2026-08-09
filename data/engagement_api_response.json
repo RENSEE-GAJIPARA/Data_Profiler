@@ -1,0 +1,7206 @@
+{
+  "status": "success",
+  "count": 1200,
+  "results": [
+    {
+      "customer_id": "CUST00001",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.23,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00002",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00003",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.57,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00004",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.83,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00005",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.72,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00006",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.4,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00007",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.34,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00008",
+      "app_sessions_per_month": 22,
+      "email_open_rate": 0.84,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00009",
+      "app_sessions_per_month": 29,
+      "email_open_rate": 0.14,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00010",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.47,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00011",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.96,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00012",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.27,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00013",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.97,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00014",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.93,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00015",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.2,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00016",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.51,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00017",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.0,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00018",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.12,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00019",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.08,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00020",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.58,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00021",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.13,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00022",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.93,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00023",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.48,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00024",
+      "app_sessions_per_month": 22,
+      "email_open_rate": 0.82,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00025",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.53,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00026",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.94,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00027",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.08,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00028",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.5,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00029",
+      "app_sessions_per_month": 1,
+      "email_open_rate": 0.57,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00030",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.03,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00031",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.95,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00032",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.09,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00033",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.06,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00034",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.69,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00035",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.74,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00036",
+      "app_sessions_per_month": 1,
+      "email_open_rate": 0.55,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00037",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.85,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00038",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.65,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00039",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.45,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00040",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.31,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00041",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.96,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00042",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.77,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00043",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.53,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00044",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.81,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00045",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.52,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00046",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.74,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00047",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.76,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00048",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.07,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00049",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.13,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00050",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.77,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00051",
+      "app_sessions_per_month": 26,
+      "email_open_rate": 0.14,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00052",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.37,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00053",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00054",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.26,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00055",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.41,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00056",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.97,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00057",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.58,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00058",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.29,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00059",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.18,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00060",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.67,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00061",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.67,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00062",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.81,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00063",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.06,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00064",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.84,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00065",
+      "app_sessions_per_month": 23,
+      "email_open_rate": 0.07,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00066",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.3,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00067",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.2,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00068",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.45,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00069",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.69,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00070",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.38,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00071",
+      "app_sessions_per_month": 28,
+      "email_open_rate": 0.84,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00072",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.99,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00073",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.75,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00074",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.69,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00075",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.2,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00076",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.98,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00077",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.01,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00078",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.16,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00079",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.03,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00080",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.02,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00081",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.24,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00082",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.46,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00083",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.76,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00084",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.23,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00085",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.08,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00086",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.7,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00087",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.07,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00088",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.04,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00089",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.66,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00090",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.16,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00091",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.96,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00092",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.37,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00093",
+      "app_sessions_per_month": 23,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00094",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.65,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00095",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.43,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00096",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.82,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00097",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.84,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00098",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.55,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00099",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.34,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00100",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.91,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00101",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.01,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00102",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.04,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00103",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.19,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00104",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.86,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00105",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.88,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00106",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.76,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00107",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.86,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00108",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.54,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00109",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.78,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00110",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.69,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00111",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.09,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00112",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.2,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00113",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.7,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00114",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.44,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00115",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.13,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00116",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.32,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00117",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.21,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00118",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.19,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00119",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.69,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00120",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 1.0,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00121",
+      "app_sessions_per_month": 22,
+      "email_open_rate": 0.82,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00122",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.27,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00123",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.38,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00124",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.81,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00125",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.41,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00126",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.49,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00127",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.08,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00128",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.4,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00129",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.9,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00130",
+      "app_sessions_per_month": 22,
+      "email_open_rate": 0.16,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00131",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.98,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00132",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.59,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00133",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.43,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00134",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.0,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00135",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.13,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00136",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.92,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00137",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.56,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00138",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.35,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00139",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.56,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00140",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.17,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00141",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.3,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00142",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.26,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00143",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.39,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00144",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.2,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00145",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.5,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00146",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.07,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00147",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.53,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00148",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.43,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00149",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.09,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00150",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.47,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00151",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.53,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00152",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.61,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00153",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.23,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00154",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.8,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00155",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.24,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00156",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.95,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00157",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00158",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.84,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00159",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.96,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00160",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.17,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00161",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.81,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00162",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.16,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00163",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.14,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00164",
+      "app_sessions_per_month": 23,
+      "email_open_rate": 0.65,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00165",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.7,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00166",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.02,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00167",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.07,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00168",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.45,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00169",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.8,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00170",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.31,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00171",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.41,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00172",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.51,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00173",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.82,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00174",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.19,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00175",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00176",
+      "app_sessions_per_month": 28,
+      "email_open_rate": 0.93,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00177",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.35,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00178",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.93,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00179",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.27,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00180",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.5,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00181",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.48,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00182",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.92,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00183",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00184",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.54,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00185",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.44,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00186",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.16,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00187",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.49,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00188",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.54,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00189",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.05,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00190",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.76,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00191",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.37,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00192",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.88,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00193",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.58,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00194",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.33,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00195",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.16,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00196",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.32,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00197",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.28,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00198",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.61,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00199",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.83,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00200",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.99,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00201",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.57,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00202",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.1,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00203",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.95,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00204",
+      "app_sessions_per_month": 1,
+      "email_open_rate": 0.28,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00205",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.6,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00206",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.92,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00207",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.27,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00208",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.54,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00209",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.45,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00210",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.76,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00211",
+      "app_sessions_per_month": 1,
+      "email_open_rate": 0.2,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00212",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.27,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00213",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.83,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00214",
+      "app_sessions_per_month": 1,
+      "email_open_rate": 0.83,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00215",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.11,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00216",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.79,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00217",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.15,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00218",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.02,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00219",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.03,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00220",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.44,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00221",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.94,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00222",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.14,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00223",
+      "app_sessions_per_month": 22,
+      "email_open_rate": 0.77,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00224",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.8,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00225",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.77,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00226",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.66,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00227",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.99,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00228",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.76,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00229",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.19,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00230",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.43,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00231",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.84,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00232",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.68,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00233",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.27,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00234",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.65,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00235",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.7,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00236",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.45,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00237",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.74,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00238",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.91,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00239",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.05,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00240",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.7,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00241",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.81,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00242",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.21,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00243",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.74,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00244",
+      "app_sessions_per_month": 24,
+      "email_open_rate": 0.86,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00245",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.54,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00246",
+      "app_sessions_per_month": 24,
+      "email_open_rate": 0.38,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00247",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.5,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00248",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.84,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00249",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.64,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00250",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.64,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00251",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.69,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00252",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.25,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00253",
+      "app_sessions_per_month": 27,
+      "email_open_rate": 0.14,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00254",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.6,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00255",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.75,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00256",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.63,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00257",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.24,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00258",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.29,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00259",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.6,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00260",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.38,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00261",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.92,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00262",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.36,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00263",
+      "app_sessions_per_month": 22,
+      "email_open_rate": 0.62,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00264",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.79,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00265",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.97,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00266",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.69,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00267",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.44,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00268",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.76,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00269",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.48,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00270",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.79,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00271",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.0,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00272",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.41,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00273",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.14,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00274",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.79,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00275",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.19,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00276",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.96,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00277",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.37,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00278",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.56,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00279",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.9,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00280",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.31,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00281",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.12,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00282",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.07,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00283",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.46,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00284",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.03,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00285",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.21,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00286",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.47,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00287",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.55,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00288",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.51,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00289",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.5,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00290",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.42,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00291",
+      "app_sessions_per_month": 22,
+      "email_open_rate": 0.89,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00292",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00293",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.1,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00294",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.58,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00295",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.37,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00296",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.15,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00297",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.74,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00298",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.19,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00299",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.31,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00300",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.88,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00301",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.81,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00302",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.52,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00303",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.77,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00304",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.7,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00305",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.56,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00306",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.11,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00307",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.47,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00308",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.68,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00309",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.44,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00310",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.37,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00311",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.54,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00312",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.67,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00313",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.93,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00314",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.43,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00315",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.96,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00316",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.96,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00317",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.59,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00318",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.54,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00319",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.54,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00320",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.24,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00321",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.97,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00322",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.61,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00323",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.22,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00324",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.74,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00325",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.74,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00326",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.04,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00327",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.64,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00328",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.28,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00329",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.39,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00330",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.3,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00331",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.33,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00332",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.97,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00333",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.87,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00334",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.31,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00335",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.41,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00336",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.97,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00337",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.77,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00338",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.21,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00339",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.84,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00340",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.83,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00341",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.57,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00342",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.1,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00343",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.47,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00344",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.83,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00345",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.46,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00346",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.9,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00347",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.85,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00348",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00349",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.32,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00350",
+      "app_sessions_per_month": 27,
+      "email_open_rate": 0.67,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00351",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.47,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00352",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.89,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00353",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.67,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00354",
+      "app_sessions_per_month": 24,
+      "email_open_rate": 0.83,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00355",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.46,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00356",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.35,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00357",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.22,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00358",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.08,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00359",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.06,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00360",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.45,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00361",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.34,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00362",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.78,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00363",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.83,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00364",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.89,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00365",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.82,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00366",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.81,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00367",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.08,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00368",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.7,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00369",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.0,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00370",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.51,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00371",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.2,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00372",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.15,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00373",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.44,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00374",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.08,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00375",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.91,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00376",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.24,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00377",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.61,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00378",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.2,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00379",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.71,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00380",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.37,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00381",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.95,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00382",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.46,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00383",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.7,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00384",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.04,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00385",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.86,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00386",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.02,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00387",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.7,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00388",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.68,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00389",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.78,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00390",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.45,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00391",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.8,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00392",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.17,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00393",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.44,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00394",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.89,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00395",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.76,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00396",
+      "app_sessions_per_month": 22,
+      "email_open_rate": 0.44,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00397",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.49,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00398",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.16,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00399",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.38,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00400",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.46,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00401",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.74,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00402",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.48,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00403",
+      "app_sessions_per_month": 26,
+      "email_open_rate": 0.71,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00404",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.81,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00405",
+      "app_sessions_per_month": 26,
+      "email_open_rate": 0.49,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00406",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.11,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00407",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.19,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00408",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.2,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00409",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.79,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00410",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.58,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00411",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.08,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00412",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.3,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00413",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.91,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00414",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.46,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00415",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.36,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00416",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.93,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00417",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.29,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00418",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.78,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00419",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.05,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00420",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.95,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00421",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.68,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00422",
+      "app_sessions_per_month": 1,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00423",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.15,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00424",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.0,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00425",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.06,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00426",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.1,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00427",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.28,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00428",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.2,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00429",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.42,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00430",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.29,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00431",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.01,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00432",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.22,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00433",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.93,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00434",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.58,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00435",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.05,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00436",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.27,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00437",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.5,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00438",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.13,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00439",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.81,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00440",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.69,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00441",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.47,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00442",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.63,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00443",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.11,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00444",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.17,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00445",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.57,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00446",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.49,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00447",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.67,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00448",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.67,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00449",
+      "app_sessions_per_month": 22,
+      "email_open_rate": 0.24,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00450",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.05,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00451",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.65,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00452",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.32,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00453",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.94,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00454",
+      "app_sessions_per_month": 24,
+      "email_open_rate": 0.44,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00455",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.08,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00456",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.68,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00457",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.63,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00458",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.58,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00459",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.31,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00460",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.8,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00461",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 1.0,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00462",
+      "app_sessions_per_month": 22,
+      "email_open_rate": 0.97,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00463",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.12,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00464",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.27,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00465",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.99,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00466",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.21,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00467",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.72,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00468",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.02,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00469",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.92,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00470",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00471",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.49,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00472",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.29,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00473",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.32,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00474",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.64,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00475",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.4,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00476",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.69,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00477",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.45,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00478",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.84,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00479",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00480",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.8,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00481",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 1.0,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00482",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.73,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00483",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.36,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00484",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.88,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00485",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.35,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00486",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.75,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00487",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.16,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00488",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.15,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00489",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.96,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00490",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.21,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00491",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.22,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00492",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.21,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00493",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.09,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00494",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.52,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00495",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.68,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00496",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.68,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00497",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.85,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00498",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.12,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00499",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.62,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00500",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.16,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00501",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.36,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00502",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.79,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00503",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.06,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00504",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.14,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00505",
+      "app_sessions_per_month": 24,
+      "email_open_rate": 0.96,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00506",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.44,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00507",
+      "app_sessions_per_month": 23,
+      "email_open_rate": 0.26,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00508",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.54,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00509",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.3,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00510",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.16,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00511",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.08,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00512",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.08,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00513",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.76,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00514",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.71,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00515",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.38,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00516",
+      "app_sessions_per_month": 1,
+      "email_open_rate": 0.76,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00517",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.17,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00518",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.33,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00519",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.39,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00520",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.66,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00521",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.39,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00522",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.16,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00523",
+      "app_sessions_per_month": 1,
+      "email_open_rate": 0.56,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00524",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.26,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00525",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.1,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00526",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.95,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00527",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.8,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00528",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.97,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00529",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.36,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00530",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.03,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00531",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.34,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00532",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.2,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00533",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.92,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00534",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.25,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00535",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.68,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00536",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.61,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00537",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.03,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00538",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.71,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00539",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.0,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00540",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.11,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00541",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.37,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00542",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.57,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00543",
+      "app_sessions_per_month": 23,
+      "email_open_rate": 0.95,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00544",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.17,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00545",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.93,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00546",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.99,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00547",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.63,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00548",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.61,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00549",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.31,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00550",
+      "app_sessions_per_month": 23,
+      "email_open_rate": 0.37,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00551",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.89,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00552",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.6,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00553",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.68,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00554",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.11,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00555",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.84,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00556",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.44,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00557",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.42,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00558",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.12,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00559",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.32,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00560",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.06,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00561",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.06,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00562",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.38,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00563",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.22,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00564",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.92,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00565",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.38,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00566",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.35,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00567",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.68,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00568",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.89,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00569",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.74,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00570",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.03,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00571",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.04,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00572",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.39,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00573",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.28,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00574",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.14,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00575",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.3,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00576",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.51,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00577",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.67,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00578",
+      "app_sessions_per_month": 23,
+      "email_open_rate": 0.24,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00579",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.87,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00580",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.51,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00581",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.36,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00582",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.09,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00583",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.41,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00584",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.31,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00585",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.02,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00586",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.55,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00587",
+      "app_sessions_per_month": 22,
+      "email_open_rate": 0.71,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00588",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.66,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00589",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.02,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00590",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.95,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00591",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.95,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00592",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.09,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00593",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.6,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00594",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.76,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00595",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.1,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00596",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.81,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00597",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.68,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00598",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.4,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00599",
+      "app_sessions_per_month": 1,
+      "email_open_rate": 0.95,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00600",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.47,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00601",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.31,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00602",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.44,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00603",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.03,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00604",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.55,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00605",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.97,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00606",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.54,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00607",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.69,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00608",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.54,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00609",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.48,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00610",
+      "app_sessions_per_month": 24,
+      "email_open_rate": 0.71,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00611",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.8,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00612",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.28,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00613",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.25,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00614",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.85,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00615",
+      "app_sessions_per_month": 22,
+      "email_open_rate": 0.01,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00616",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.02,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00617",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.16,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00618",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.53,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00619",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.5,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00620",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.52,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00621",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.57,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00622",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.15,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00623",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.92,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00624",
+      "app_sessions_per_month": 23,
+      "email_open_rate": 0.43,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00625",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.79,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00626",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.28,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00627",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.18,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00628",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.66,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00629",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.46,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00630",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.96,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00631",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.78,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00632",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.05,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00633",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.11,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00634",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.25,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00635",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.27,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00636",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.23,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00637",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.59,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00638",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.01,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00639",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.72,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00640",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.21,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00641",
+      "app_sessions_per_month": 22,
+      "email_open_rate": 0.82,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00642",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.03,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00643",
+      "app_sessions_per_month": 28,
+      "email_open_rate": 0.37,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00644",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.67,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00645",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.96,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00646",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.34,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00647",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.51,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00648",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.24,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00649",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.64,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00650",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.22,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00651",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.79,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00652",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.68,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00653",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.99,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00654",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.51,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00655",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.79,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00656",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.77,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00657",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.63,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00658",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.01,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00659",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.56,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00660",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.53,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00661",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.83,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00662",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.23,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00663",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.82,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00664",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.14,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00665",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.92,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00666",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.98,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00667",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.42,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00668",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 1.0,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00669",
+      "app_sessions_per_month": 25,
+      "email_open_rate": 0.01,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00670",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.81,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00671",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.09,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00672",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 1.0,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00673",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.08,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00674",
+      "app_sessions_per_month": 22,
+      "email_open_rate": 0.4,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00675",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.32,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00676",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.43,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00677",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.89,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00678",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.1,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00679",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.29,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00680",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.26,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00681",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.84,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00682",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.18,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00683",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.84,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00684",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.09,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00685",
+      "app_sessions_per_month": 1,
+      "email_open_rate": 0.47,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00686",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.5,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00687",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.07,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00688",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.32,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00689",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.4,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00690",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.97,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00691",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.83,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00692",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.86,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00693",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.81,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00694",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.06,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00695",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.43,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00696",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.57,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00697",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.91,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00698",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.63,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00699",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.05,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00700",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.67,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00701",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.01,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00702",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.92,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00703",
+      "app_sessions_per_month": 1,
+      "email_open_rate": 0.1,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00704",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.68,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00705",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.05,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00706",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.59,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00707",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.46,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00708",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.22,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00709",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.53,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00710",
+      "app_sessions_per_month": 27,
+      "email_open_rate": 0.44,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00711",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.77,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00712",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.71,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00713",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.03,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00714",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.69,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00715",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.21,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00716",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.83,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00717",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.68,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00718",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.31,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00719",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.76,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00720",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.87,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00721",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.78,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00722",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.26,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00723",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.98,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00724",
+      "app_sessions_per_month": 1,
+      "email_open_rate": 0.2,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00725",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.14,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00726",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.91,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00727",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.8,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00728",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.71,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00729",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.14,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00730",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.01,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00731",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.37,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00732",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.74,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00733",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.4,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00734",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.93,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00735",
+      "app_sessions_per_month": 1,
+      "email_open_rate": 0.31,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00736",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.57,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00737",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.42,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00738",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.1,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00739",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.51,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00740",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.17,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00741",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.33,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00742",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.41,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00743",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.4,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00744",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.31,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00745",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.76,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00746",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.97,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00747",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.38,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00748",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00749",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.81,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00750",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.28,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00751",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.92,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00752",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.92,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00753",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.33,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00754",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.32,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00755",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.51,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00756",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.73,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00757",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00758",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.24,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00759",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.4,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00760",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.17,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00761",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.47,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00762",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.77,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00763",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.92,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00764",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.15,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00765",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.02,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00766",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.98,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00767",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.31,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00768",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.43,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00769",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.82,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00770",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.95,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00771",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.7,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00772",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.72,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00773",
+      "app_sessions_per_month": 1,
+      "email_open_rate": 0.15,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00774",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.9,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00775",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.35,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00776",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.08,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00777",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.28,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00778",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.38,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00779",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.81,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00780",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.64,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00781",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.68,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00782",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.12,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00783",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.77,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00784",
+      "app_sessions_per_month": 1,
+      "email_open_rate": 0.75,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00785",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.04,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00786",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.52,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00787",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.13,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00788",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.32,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00789",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.25,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00790",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.13,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00791",
+      "app_sessions_per_month": 25,
+      "email_open_rate": 0.7,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00792",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.37,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00793",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.52,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00794",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.83,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00795",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.67,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00796",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.48,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00797",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.82,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00798",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.39,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00799",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.59,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00800",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.16,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00801",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.31,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00802",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.31,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00803",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.23,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00804",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.3,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00805",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.52,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00806",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.19,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00807",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.34,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00808",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.19,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00809",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.75,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00810",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.71,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00811",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.8,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00812",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.69,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00813",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.4,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00814",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.24,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00815",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.8,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00816",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.83,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00817",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.68,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00818",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.8,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00819",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.69,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00820",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.54,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00821",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.1,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00822",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.82,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00823",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.59,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00824",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.88,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00825",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.54,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00826",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.17,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00827",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.51,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00828",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.11,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00829",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.77,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00830",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.74,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00831",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.07,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00832",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.54,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00833",
+      "app_sessions_per_month": 26,
+      "email_open_rate": 0.57,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00834",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.94,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00835",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.05,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00836",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.4,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00837",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.86,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00838",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.52,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00839",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.24,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00840",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.23,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00841",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.24,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00842",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.79,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00843",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.93,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00844",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.75,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00845",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.67,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00846",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.92,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00847",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.66,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00848",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.83,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00849",
+      "app_sessions_per_month": 26,
+      "email_open_rate": 0.36,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00850",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.25,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00851",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.71,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00852",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.67,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00853",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.45,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00854",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.14,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00855",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.27,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00856",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.36,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00857",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.33,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00858",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.75,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00859",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.29,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00860",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.48,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00861",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.9,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00862",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.88,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00863",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.53,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00864",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.16,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00865",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.67,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00866",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.65,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00867",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.61,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00868",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.84,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00869",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.15,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00870",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.63,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00871",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.03,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00872",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.34,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00873",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.33,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00874",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.03,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00875",
+      "app_sessions_per_month": 35,
+      "email_open_rate": 0.92,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00876",
+      "app_sessions_per_month": 25,
+      "email_open_rate": 0.33,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00877",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.79,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00878",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.86,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00879",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.71,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00880",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.24,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00881",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.64,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00882",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.76,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00883",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.26,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00884",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.84,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00885",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.36,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00886",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.55,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00887",
+      "app_sessions_per_month": 22,
+      "email_open_rate": 0.37,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00888",
+      "app_sessions_per_month": 25,
+      "email_open_rate": 0.46,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00889",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.32,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00890",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.64,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00891",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.31,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00892",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.67,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00893",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.72,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00894",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.01,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00895",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.29,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00896",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.33,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00897",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.08,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00898",
+      "app_sessions_per_month": 23,
+      "email_open_rate": 0.08,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00899",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.85,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00900",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.39,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00901",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.85,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00902",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.09,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00903",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.49,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00904",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.17,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00905",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.06,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00906",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.32,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00907",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.75,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00908",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.05,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00909",
+      "app_sessions_per_month": 25,
+      "email_open_rate": 0.96,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00910",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.83,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00911",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.58,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00912",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00913",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.43,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00914",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.3,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00915",
+      "app_sessions_per_month": 25,
+      "email_open_rate": 0.66,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00916",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.43,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00917",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.66,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00918",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 1.0,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00919",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.67,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00920",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.66,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00921",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.17,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00922",
+      "app_sessions_per_month": 1,
+      "email_open_rate": 0.08,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00923",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.61,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00924",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.75,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00925",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00926",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.91,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00927",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.81,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00928",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.6,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00929",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.62,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00930",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.24,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00931",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.19,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00932",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.18,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00933",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.92,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00934",
+      "app_sessions_per_month": 23,
+      "email_open_rate": 0.28,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00935",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00936",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.93,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00937",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.18,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00938",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.7,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00939",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00940",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.16,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00941",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.85,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00942",
+      "app_sessions_per_month": 27,
+      "email_open_rate": 0.07,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00943",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.97,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00944",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.26,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00945",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.83,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00946",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.0,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00947",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.28,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00948",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.77,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00949",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.65,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00950",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.85,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00951",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.6,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00952",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.04,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00953",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.47,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00954",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.02,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00955",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.29,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00956",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.19,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00957",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.39,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00958",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.0,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00959",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.61,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00960",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.15,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00961",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.44,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00962",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.19,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00963",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.59,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00964",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.23,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00965",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.03,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00966",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.4,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00967",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.77,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00968",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.79,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00969",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.92,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00970",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.89,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00971",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.68,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00972",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.72,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00973",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.3,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00974",
+      "app_sessions_per_month": 24,
+      "email_open_rate": 0.49,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00975",
+      "app_sessions_per_month": 22,
+      "email_open_rate": 0.34,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00976",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.77,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00977",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.14,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00978",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.69,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00979",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.09,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00980",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.44,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00981",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.43,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00982",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.89,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00983",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.3,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00984",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.67,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00985",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.45,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00986",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.13,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00987",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.45,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00988",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.24,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00989",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.78,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00990",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.17,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00991",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.84,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00992",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.79,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST00993",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.56,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00994",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.92,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00995",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.07,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00996",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.52,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00997",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.37,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00998",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.34,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST00999",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.59,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01000",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.75,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01001",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.11,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01002",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.68,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01003",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.33,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01004",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.94,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01005",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.77,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01006",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.03,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01007",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.8,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01008",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.83,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01009",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.34,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01010",
+      "app_sessions_per_month": 23,
+      "email_open_rate": 0.59,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01011",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.52,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01012",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.6,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01013",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.97,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01014",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.79,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01015",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.91,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01016",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.24,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01017",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.96,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01018",
+      "app_sessions_per_month": 22,
+      "email_open_rate": 0.36,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01019",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.33,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01020",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.76,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01021",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.94,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01022",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.76,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01023",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.4,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01024",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.29,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01025",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.96,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01026",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.41,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01027",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.82,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01028",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.19,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01029",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.09,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01030",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.25,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01031",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.92,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01032",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.45,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01033",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.28,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01034",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.04,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01035",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.8,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01036",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.34,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01037",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.5,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01038",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.14,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01039",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.74,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01040",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.92,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01041",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.62,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01042",
+      "app_sessions_per_month": 1,
+      "email_open_rate": 0.25,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01043",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.78,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01044",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.56,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01045",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.72,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01046",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.28,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01047",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.9,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01048",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.22,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01049",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.23,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01050",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.5,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01051",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.02,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01052",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.94,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01053",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01054",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.41,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01055",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.49,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01056",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.91,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01057",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.29,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01058",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.83,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01059",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.35,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01060",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.25,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01061",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.49,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01062",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.7,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01063",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.36,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01064",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.18,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01065",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.08,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01066",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.68,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01067",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.37,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01068",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.67,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01069",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.97,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01070",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.42,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01071",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.49,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01072",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.09,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01073",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.63,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01074",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.13,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01075",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.55,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01076",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.32,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01077",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.22,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01078",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.6,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01079",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.2,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01080",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.06,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01081",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.3,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01082",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.52,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01083",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.41,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01084",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.58,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01085",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.99,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01086",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.99,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01087",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.78,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01088",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.3,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01089",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.93,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01090",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.67,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01091",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.49,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01092",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.67,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01093",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.49,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01094",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01095",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.12,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01096",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.39,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01097",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.29,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01098",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.1,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01099",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.13,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01100",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.88,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01101",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.84,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01102",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.46,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01103",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.9,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01104",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.46,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01105",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.86,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01106",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.07,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01107",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.07,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01108",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.25,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01109",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.93,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01110",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01111",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.66,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01112",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.27,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01113",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.38,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01114",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.21,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01115",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.33,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01116",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.98,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01117",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.95,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01118",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.6,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01119",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.04,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01120",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.97,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01121",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.37,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01122",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.31,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01123",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.26,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01124",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.42,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01125",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.55,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01126",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.73,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01127",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.87,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01128",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.13,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01129",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.74,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01130",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.51,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01131",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.76,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01132",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.74,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01133",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.09,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01134",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.95,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01135",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.42,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01136",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.96,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01137",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.28,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01138",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.55,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01139",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.91,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01140",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.87,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01141",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.14,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01142",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.24,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01143",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.96,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01144",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.75,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01145",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.85,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01146",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.65,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01147",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.59,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01148",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.31,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01149",
+      "app_sessions_per_month": 4,
+      "email_open_rate": 0.84,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01150",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.04,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01151",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.35,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01152",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.07,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01153",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 1.0,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01154",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.6,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01155",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.74,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01156",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.96,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01157",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.09,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01158",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.2,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01159",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.79,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01160",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.7,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01161",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.61,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01162",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.41,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01163",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.92,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01164",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.98,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01165",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.81,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01166",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.01,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01167",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.64,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01168",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.25,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01169",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.68,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01170",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.12,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01171",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.33,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01172",
+      "app_sessions_per_month": 18,
+      "email_open_rate": 0.15,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01173",
+      "app_sessions_per_month": 11,
+      "email_open_rate": 0.6,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01174",
+      "app_sessions_per_month": 8,
+      "email_open_rate": 0.63,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01175",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.45,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01176",
+      "app_sessions_per_month": 10,
+      "email_open_rate": 0.72,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01177",
+      "app_sessions_per_month": 6,
+      "email_open_rate": 0.57,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01178",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.22,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01179",
+      "app_sessions_per_month": 19,
+      "email_open_rate": 0.29,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01180",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.77,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01181",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.49,
+      "churn": 1
+    },
+    {
+      "customer_id": "CUST01182",
+      "app_sessions_per_month": 17,
+      "email_open_rate": 0.03,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01183",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.41,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01184",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.69,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01185",
+      "app_sessions_per_month": 16,
+      "email_open_rate": 0.16,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01186",
+      "app_sessions_per_month": 21,
+      "email_open_rate": 0.82,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01187",
+      "app_sessions_per_month": 5,
+      "email_open_rate": 0.92,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01188",
+      "app_sessions_per_month": 29,
+      "email_open_rate": 0.58,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01189",
+      "app_sessions_per_month": 12,
+      "email_open_rate": 0.0,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01190",
+      "app_sessions_per_month": 14,
+      "email_open_rate": 0.36,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01191",
+      "app_sessions_per_month": 20,
+      "email_open_rate": 0.5,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01192",
+      "app_sessions_per_month": 9,
+      "email_open_rate": 0.64,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01193",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.0,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01194",
+      "app_sessions_per_month": 3,
+      "email_open_rate": 0.95,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01195",
+      "app_sessions_per_month": 7,
+      "email_open_rate": 0.94,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01196",
+      "app_sessions_per_month": 2,
+      "email_open_rate": 0.53,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01197",
+      "app_sessions_per_month": 15,
+      "email_open_rate": 0.88,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01198",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.65,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01199",
+      "app_sessions_per_month": 13,
+      "email_open_rate": 0.98,
+      "churn": 0
+    },
+    {
+      "customer_id": "CUST01200",
+      "app_sessions_per_month": 0,
+      "email_open_rate": 0.63,
+      "churn": 0
+    }
+  ]
+}
